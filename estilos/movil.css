@@ -1,0 +1,31 @@
+/* body */
+.section-movil{
+    max-width: 375px;
+    padding: 2rem;
+}
+
+/* -----------------*/
+.bg-color-section-student{
+    background: linear-gradient(313.78deg, #2855AE -3.15%, #7292CF 100%);;
+}
+.section-student{
+
+    position: absolute;
+    width: 126.15px;
+    height: 62.97px;
+    left: 105px;
+    top: 161.13px;
+}
+
+.section-student__Logo{
+    width: 100%;
+}
+.section-student__imagenAlumno{
+   position: absolute;
+
+    left: -99.03px;
+    top: 300.32px;
+}
+
+
+

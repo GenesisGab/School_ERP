@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: monospace;
+    font-size: 10px;
+}
+
+:root{
+    /* variables de color*/
+    --DegradadoAzul: ;
+    --colorBlanco: #fff;
+}
+/*ESTRCUTURA DE LAS SECCIONES*/
+.background-Section{
+    position: relative;
+    max-width: 37.5rem;
+    height: 813px;
+    left: 0px;
+    top: 0px;
+}
+.section-body{
+    max-width: 130rem;
+    height: auto;
+    margin: auto;
+}
