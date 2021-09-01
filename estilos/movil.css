@@ -1,31 +1,18 @@
-/* body */
-.section-movil{
-    max-width: 375px;
-    padding: 2rem;
+.login{
+   background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-/* -----------------*/
-.bg-color-section-student{
-    background: linear-gradient(313.78deg, #2855AE -3.15%, #7292CF 100%);;
-}
-.section-student{
-
-    position: absolute;
-    width: 126.15px;
-    height: 62.97px;
-    left: 105px;
-    top: 161.13px;
+.login__logo{
+    width: 12.6rem;
+   /* margin-top: 43.6%;*/
+   /* margin-top: 40%;*/
+    margin-top: 43.6%;
 }
 
-.section-student__Logo{
-    width: 100%;
+.login__img{
+    margin-top: 20rem;
 }
-.section-student__imagenAlumno{
-   position: absolute;
-
-    left: -99.03px;
-    top: 300.32px;
-}
-
-
-
